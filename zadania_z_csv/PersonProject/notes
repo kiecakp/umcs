@@ -1,0 +1,55 @@
+------------- NOTATKI ------------------
+
+  *** ODDZIELANIE PO DANYCH ZNAKACH ***
+     String s = "aa,bb,cc";
+     String[] splited = s.split(",");
+     for(String str: splited){
+         System.out.println(str);
+     }
+
+  *** LISTA ***
+     ArrayList<String> list = new ArrayList<>();
+     list.add("Tekst");
+     for(String str: list){
+         System.out.println(str);
+     }
+     for(int i = 0; i < list.size(); i++){
+         System.out.println(list.get(i));
+     }
+
+  *** DATY ***
+   !! formatowanie dat !!
+     DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
+     String dateString = "10.10.2020";
+     LocalDate date = LocalDate.parse(dateString, formatter);
+
+  *** ODCZYTYWANIE Z PLIKOW ***
+   !! try, catch - tworzenie wyjatkow !!
+     FileReader file = null;
+     try {
+        file = new FileReader("plik.txt");
+        BufferedReader reader = new BufferedReader(file);
+        String line = reader.readLine();    // zczytuje jedna linie
+
+        while(line != null){    // petla wczytuje linie i cos z nimi robi dopoki jakas linia nie jest nullem
+            //... line
+            line = reader.readLine();
+        }
+
+     } catch (FileNotFoundException e) {
+        throw new RuntimeException(e);
+     } catch (IOException e) {
+        throw new RuntimeException(e);
+     }
+
+  *** TWORZENIE WYJATKOW ***
+     Jezeli chcemy zeby jakas klasa mogla rzucic swoj obiekt jako wyjatek dajemy:
+        public class nazwa_klasy extends Exception{}
+                                 ^^^^^^^^^^^^^^^^^^
+     Jezeli chcemy zeby zostal wyswietlony jakis komunikat podczas wyjatku dajemy w klasie:
+        public nazwa_klasy (...){
+            super("...");
+        }
+   !! rzucanie wyjatku !!
+        throw new nazwa_klasy(...);
+     trzeba dodac jeszcze throws do naglowka metody ale inteligej zrobi to za nas
