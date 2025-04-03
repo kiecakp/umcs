@@ -1,0 +1,3 @@
+C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Powracajacy_Czas(zad6)/cmake-build-debug/CMakeFiles/Powracajacy_Czas_zad6_.dir
+C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Powracajacy_Czas(zad6)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Powracajacy_Czas(zad6)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

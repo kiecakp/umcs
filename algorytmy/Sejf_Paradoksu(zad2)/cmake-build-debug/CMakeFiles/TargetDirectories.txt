@@ -1,0 +1,3 @@
+C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Sejf_Paradoksu(zad2)/cmake-build-debug/CMakeFiles/Sejf_Paradoksu_zad2_.dir
+C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Sejf_Paradoksu(zad2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Sejf_Paradoksu(zad2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

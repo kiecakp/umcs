@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Misja_Janusza_zad5_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Misja_Janusza_zad5_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Misja_Janusza_zad5_-Debug-ea12d84bc8810da8bcb0.json",
+					"name" : "Misja_Janusza_zad5_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Misja_Janusza(zad5)/cmake-build-debug",
+		"source" : "C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Misja_Janusza(zad5)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(Najnizsze_Ceny_W_Obserwowalnym_Wszechswiecie_zad3_)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Najnizsze_Ceny_W_Obserwowalnym_Wszechswiecie_zad3_ main.cpp)

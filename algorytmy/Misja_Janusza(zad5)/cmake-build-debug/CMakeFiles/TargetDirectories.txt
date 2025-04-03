@@ -1,0 +1,3 @@
+C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Misja_Janusza(zad5)/cmake-build-debug/CMakeFiles/Misja_Janusza_zad5_.dir
+C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Misja_Janusza(zad5)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Misja_Janusza(zad5)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

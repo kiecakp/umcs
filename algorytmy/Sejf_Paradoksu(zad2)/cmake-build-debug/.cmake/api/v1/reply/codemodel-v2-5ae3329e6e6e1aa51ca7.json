@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sejf_Paradoksu_zad2_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Sejf_Paradoksu_zad2_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sejf_Paradoksu_zad2_-Debug-b7dd0d9801649bb6ea40.json",
+					"name" : "Sejf_Paradoksu_zad2_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Sejf_Paradoksu(zad2)/cmake-build-debug",
+		"source" : "C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Sejf_Paradoksu(zad2)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

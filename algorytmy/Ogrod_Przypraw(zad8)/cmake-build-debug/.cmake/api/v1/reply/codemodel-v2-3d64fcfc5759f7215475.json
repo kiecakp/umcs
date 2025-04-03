@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ogrod_Przypraw_zad8_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ogrod_Przypraw_zad8_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ogrod_Przypraw_zad8_-Debug-1e825e671bb4b2bd55e7.json",
+					"name" : "Ogrod_Przypraw_zad8_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Ogrod_Przypraw(zad8)/cmake-build-debug",
+		"source" : "C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Ogrod_Przypraw(zad8)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

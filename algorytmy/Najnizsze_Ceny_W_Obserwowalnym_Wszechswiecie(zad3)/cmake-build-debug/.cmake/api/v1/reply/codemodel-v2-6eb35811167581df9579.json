@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Najnizsze_Ceny_W_Obserwowalnym_Wszechswiecie_zad3_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Najnizsze_Ceny_W_Obserwowalnym_Wszechswiecie_zad3_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Najnizsze_Ceny_W_Obserwowalnym_Wszechswiecie_zad3_-Debug-09b65a9b0348e4caab17.json",
+					"name" : "Najnizsze_Ceny_W_Obserwowalnym_Wszechswiecie_zad3_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Najnizsze_Ceny_W_Obserwowalnym_Wszechswiecie(zad3)/cmake-build-debug",
+		"source" : "C:/Users/patek/Desktop/Nowy folder (2)/umcs/algorytmy/Najnizsze_Ceny_W_Obserwowalnym_Wszechswiecie(zad3)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
